@@ -4,7 +4,7 @@
 !wp-content/
 # ignore everything in the "wp-content" directory, except:
 
-wp-content/*
+
  !wp-content/plugins/
  !wp-content/themes/
 
